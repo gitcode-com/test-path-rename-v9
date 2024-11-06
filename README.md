@@ -9,4 +9,5 @@ test-path-rename
 3. https://github.com/gitcode-com/test-path-rename-v2
 4. https://github.com/gitcode-com/test-path-rename-v3
 5. https://github.com/gitcode-com/test-path-rename-v4
-6. 
+6. https://github.com/gitcode-com/test-path-rename-v5
+7. 
